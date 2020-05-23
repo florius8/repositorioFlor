@@ -6,3 +6,5 @@
 6. Después he mostrado en Git la estructura creada con el comando ls
 7. He configurado mi usuario y mi correo
 8. Y por último, he mostrado la ayuda sobre el uso de Git con el comando git --help
+
+Estoy modificando el archivo para ver qué ocurre
